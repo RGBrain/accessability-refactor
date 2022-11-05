@@ -1,11 +1,11 @@
 /* PAGE SETTINGS */
-/* remove padding and margin and use the border box */
+/* remove padding and margin and use the border box model */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/* background colour */
+/* page background colour */
 body {
     background-color: #d9dcd6;
 }
@@ -40,7 +40,7 @@ li {
     display: inline-block;
     margin-left: 25px;
 }
-/* Makes link text white with no underline */
+/* White link text with no underline */
 a {
     color: #ffffff;
     text-decoration: none;
