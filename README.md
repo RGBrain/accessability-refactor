@@ -18,6 +18,10 @@ CSS
 
 Here is the completed site: https://rgbrain.github.io/accessibility-refactor/
 
+Screenshot:
+
+![Alt text](readme-screenshot.png?raw=true "Webpage Screenshot")
+
 
 ## Credits
 
